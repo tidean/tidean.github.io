@@ -1,0 +1,39 @@
+/*Write our CSS in here*/
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900);
+
+/*What we're selecting*/
+h1 {
+	font-size: 70px;
+	text-transform: uppercase;
+}
+body {
+	background-color: #dcd6d4;
+	color: #5b35a1;
+	font-family: "Source Code Pro";
+}
+img	{
+	height: 300px;
+	border-radius: 50%;
+}
+
+#icon	{
+	height: 10px;
+	border-radius: 50%;
+}
+
+#container {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+
+p {
+	font-size: 20px;
+}
+
+
+
+
