@@ -35,7 +35,7 @@ p {
 }
 
 .collapse:not(.show) {
-  display: block;
+    	display: block;
 }
 
 
